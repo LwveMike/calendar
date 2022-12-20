@@ -93,7 +93,7 @@ const isShortcutSelected = (difference: number) => {
 <style scoped>
 .calendar-input__wrapper {
   display: flex;
-  min-height: 90vh;
+  min-height: 600px;
   column-gap: var(--xlg);
 }
 
